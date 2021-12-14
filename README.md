@@ -1,6 +1,6 @@
 # Introduccion 
 
-Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemosen la clase de 3D.
+Me llamo Miguel Angel y en este repositorio esta todo lo que trabajemos en la clase de 3D.
 
 ## Mis enlaces
 
