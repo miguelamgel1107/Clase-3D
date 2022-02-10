@@ -1,12 +1,39 @@
 # Clase 3D
 
-## Imprecion 3D
+                                                 9 de Diciembre de 2021
+                                     
+ En el día de hoy hemos "construido" en Tinkercad la famosa Torre Eiffel siguiendo los pasos de este [vídeo](https://www.youtube.com/watch?v=LOKpUSnjHao). 
+ 
+ E aquí el resultado:
+ 
+ ![](https://github.com/miguelamgel1107/Clase-3D/blob/main/imagenes/torre.png)
+ 
+ ## Canción de Spotify
+ 
+Otro de los proyectos que hemos hecho es pasar un código de una canción de Spotify a Inkscape, en mi caso la canción que yo he escogido se títula Privilege del artista The Weeknd.
 
-Tienes mayor calidad con 0,1 pero tarda más en hacerse.
+![](https://github.com/Tabrih/3D/blob/main/Im%C3%A1genes/Canci%C3%B3n%20Inkscape.png)
+ 
+ 
+                                                 13 de Diciembre de 2021
+                                      
+## Toy Brick
 
-Para estar en el aire, la pieza tiene que tener soporte.
+El proyecto que hemos realizado hoy se llama Toy brick, y se basa en recrear un ladrillo de juguete en Tinkercad gracias a este [vídeo](https://www.youtube.com/watch?v=H-sqDzjrhHw). 
 
-Cuando una pieza es muy plana o es un material comprimido por si solo se crea un brim o borde.
+Y aquí el resultado:
 
-## Proyectos 
+![](https://github.com/miguelamgel1107/Clase-3D/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-02-10%2010-12-16.png)
+
+Las medidas se encuentran en el vídeo.
+
+Si queréis crear también uno podéis pasaros por el enlace que os he dejado hace nada.
+
+## Figuras geométricas
+
+También hemos hecho un par de figuras que nos ha puesto el profesor en el proyector, unas figuras bastante raras pero fáciles de hacer.
+
+Aquí dichas figuras: 
+
+![](https://github.com/miguelamgel1107/Clase-3D/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-02-10%2010-13-28.png)
 
