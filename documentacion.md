@@ -42,4 +42,15 @@ Aquí dichas figuras:
 
 # Onshape
 
+Onshape es un sistema de software de diseño asistido por computadora, que se entrega a través de Internet a través de un modelo de software como servicio.
+
+Una vez que ya hemos aprendido a usar Onshape hicimos en clasa unas cuantas figuras.
+
+He aqui unas imagenes de las figuras realizadas.
+
+![](https://github.com/miguelamgel1107/Clase-3D/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-02-10%2010-56-55.png)
+
+![](https://github.com/miguelamgel1107/Clase-3D/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-02-10%2010-57-28.png)
+
+![](https://github.com/miguelamgel1107/Clase-3D/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-02-10%2010-58-00.png)
 
