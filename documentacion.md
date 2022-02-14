@@ -76,3 +76,13 @@ Para la fabricación de moldes se siguen los estos pasos:
 * ¿Para que sirve un molde?
 
 Un molde es aquella cavidad que da forma a una pieza de material en estado líquido, ya sea plástico o metal. 
+
+* ¿Como hacer un molde con impresoras 3D?
+
+Resultado de imagen de como hacer moldes con impresora 3d
+El proceso de impresión 3D de moldes de inyección conlleva estos pasos:
+
+  1. Diseñe el molde teniendo en cuenta el diseño y las dimensiones adecuadas.
+  2. Imprime el molde- asegúrate que las capas estén orientadas en la misma dirección en la que el polímero fluirá dentro del molde.
+  3. Acabado opcional. 
+  4. Monta el molde.
