@@ -96,6 +96,8 @@ Són opciones que te permiten hacer tus creaciones de manera mas precisa y facil
 
 ## Restinciones
 
+![Imagenes](https://github.com/St1v3n3223/Arduino/blob/6747c064a3a32846d888b7d8cb7e9666e30ecbf5/Captura%20de%20pantalla%20de%202022-02-24%2010-01-44.png)
+
 1.Coincident: Une dos puntos de manera que coincidan.
 
 2.Concentric: Hace que cualquier punto coincida con el centro de un circulo o arco.
@@ -118,5 +120,5 @@ Són opciones que te permiten hacer tus creaciones de manera mas precisa y facil
 
 11.Fix: Fijar una figura en un mismo sitio para que no se mueva.
 
-![Imagenes](https://github.com/St1v3n3223/Arduino/blob/6747c064a3a32846d888b7d8cb7e9666e30ecbf5/Captura%20de%20pantalla%20de%202022-02-24%2010-01-44.png)
+
 
