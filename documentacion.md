@@ -121,4 +121,52 @@ Són opciones que te permiten hacer tus creaciones de manera mas precisa y facil
 11.Fix: Fijar una figura en un mismo sitio para que no se mueva.
 
 
+## Cuerpos de revolucion
+
+### ¿Cuales son los cuerpos de revolución?
+
+Llamamos cuerpos de revolución a los cuerpos que se obtienen al girar una figura plana alrededor de un eje.
+
+Un cuerpo de revolución es aquel que se origina al girar una figura plana alrededor de un eje. ... Generatriz: son los límites exteriores de la figura plana. Entre los cuerpos de revolución destacamos: la esfera, el cilindro y el cono.
+
+### ¿Como se genera un cuerpo de revolución?
+
+En geometría, un cono recto es un sólido de revolución generado por el giro de un triángulo rectángulo alrededor de uno de sus catetos. Al círculo conformado por el otro cateto se denomina base y al punto donde confluyen las generatrices se llama vértice.
+
+
+### Ejemplos de cuerpos de revolución
+
+---------------------
+
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-10%2011-53-57.png?raw=true)
+
+---------------------
+
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-24%2013-49-50.png?raw=true)
+
+---------------------
+
+## Soporte angular
+
+### ¿Que es un soporte angular?
+
+*Permite el montaje de travesaños entre carriles en aquellos casos en los que la apertura del carril y el travesaño no estén en el mismo plano. La misma pieza sirve para ambos extremos del travesaño, facilitando el almacenaje y sin riesgo de confusión.*
+
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-10%2012-02-10.png?raw=true)
+
+--------------------
+
+## Belt Roller Assembly
+
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-15%2010-23-15.png?raw=true)
+
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-15%2010-23-19.png?raw=true)
+
+![](https://github.com/Samael696/3D/blob/main/images/Captura%20de%20pantalla%20de%202022-02-15%2010-23-28.png?raw=true)
+
+
+---------------------
+
+
+
 
